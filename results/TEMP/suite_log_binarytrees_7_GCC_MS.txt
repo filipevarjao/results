@@ -1,0 +1,120 @@
+1 binarytrees.go 7
+time: 582us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 242000 | GC cycles  5
+2 binarytrees.go 7
+time: 577us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 226000 | GC cycles  5
+3 binarytrees.go 7
+time: 544us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 216000 | GC cycles  5
+4 binarytrees.go 7
+time: 552us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 209000 | GC cycles  5
+5 binarytrees.go 7
+time: 517us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 206000 | GC cycles  5
+6 binarytrees.go 7
+time: 537us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 212000 | GC cycles  5
+7 binarytrees.go 7
+time: 519us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 208000 | GC cycles  5
+8 binarytrees.go 7
+time: 527us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 207000 | GC cycles  5
+9 binarytrees.go 7
+time: 514us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 207000 | GC cycles  5
+10 binarytrees.go 7
+time: 519us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 206000 | GC cycles  5
+11 binarytrees.go 7
+time: 517us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 208000 | GC cycles  5
+12 binarytrees.go 7
+time: 528us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 205000 | GC cycles  5
+13 binarytrees.go 7
+time: 528us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 217000 | GC cycles  5
+14 binarytrees.go 7
+time: 557us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 224000 | GC cycles  5
+15 binarytrees.go 7
+time: 518us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 209000 | GC cycles  5
+16 binarytrees.go 7
+time: 585us | TotalAlloc 238440 | mallocs 8916 | frees 138064 | GC Pause 202000 | GC cycles  5
+17 binarytrees.go 7
+time: 556us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 217000 | GC cycles  5
+18 binarytrees.go 7
+time: 516us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 209000 | GC cycles  5
+19 binarytrees.go 7
+time: 518us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 211000 | GC cycles  5
+20 binarytrees.go 7
+time: 535us | TotalAlloc 238424 | mallocs 8916 | frees 168864 | GC Pause 174000 | GC cycles  4
+21 binarytrees.go 7
+time: 587us | TotalAlloc 238440 | mallocs 8916 | frees 133888 | GC Pause 214000 | GC cycles  5
+22 binarytrees.go 7
+time: 517us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 208000 | GC cycles  5
+23 binarytrees.go 7
+time: 542us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 215000 | GC cycles  5
+24 binarytrees.go 7
+time: 519us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 211000 | GC cycles  5
+25 binarytrees.go 7
+time: 514us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 204000 | GC cycles  5
+26 binarytrees.go 7
+time: 515us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 206000 | GC cycles  5
+27 binarytrees.go 7
+time: 519us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 210000 | GC cycles  5
+28 binarytrees.go 7
+time: 521us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 210000 | GC cycles  5
+29 binarytrees.go 7
+time: 552us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 221000 | GC cycles  5
+30 binarytrees.go 7
+time: 517us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 210000 | GC cycles  5
+1 binarytrees.go 7
+time: 579us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 234000 | GC cycles  5
+2 binarytrees.go 7
+time: 530us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 216000 | GC cycles  5
+3 binarytrees.go 7
+time: 569us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 235000 | GC cycles  5
+4 binarytrees.go 7
+time: 548us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 217000 | GC cycles  5
+5 binarytrees.go 7
+time: 546us | TotalAlloc 238440 | mallocs 8916 | frees 131856 | GC Pause 203000 | GC cycles  5
+6 binarytrees.go 7
+time: 556us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 228000 | GC cycles  5
+7 binarytrees.go 7
+time: 538us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 211000 | GC cycles  5
+8 binarytrees.go 7
+time: 517us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 209000 | GC cycles  5
+9 binarytrees.go 7
+time: 516us | TotalAlloc 238408 | mallocs 8916 | frees 150112 | GC Pause 176000 | GC cycles  4
+10 binarytrees.go 7
+time: 515us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 207000 | GC cycles  5
+11 binarytrees.go 7
+time: 512us | TotalAlloc 238440 | mallocs 8916 | frees 142016 | GC Pause 177000 | GC cycles  3
+12 binarytrees.go 7
+time: 524us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 212000 | GC cycles  5
+13 binarytrees.go 7
+time: 577us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 224000 | GC cycles  5
+14 binarytrees.go 7
+time: 549us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 219000 | GC cycles  5
+15 binarytrees.go 7
+time: 545us | TotalAlloc 238440 | mallocs 8916 | frees 131856 | GC Pause 201000 | GC cycles  5
+16 binarytrees.go 7
+time: 556us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 219000 | GC cycles  5
+17 binarytrees.go 7
+time: 496us | TotalAlloc 238424 | mallocs 8916 | frees 182752 | GC Pause 136000 | GC cycles  3
+18 binarytrees.go 7
+time: 558us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 240000 | GC cycles  5
+19 binarytrees.go 7
+time: 536us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 212000 | GC cycles  5
+20 binarytrees.go 7
+time: 565us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 234000 | GC cycles  5
+21 binarytrees.go 7
+time: 581us | TotalAlloc 238424 | mallocs 8916 | frees 111520 | GC Pause 239000 | GC cycles  6
+22 binarytrees.go 7
+time: 577us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 224000 | GC cycles  5
+23 binarytrees.go 7
+time: 559us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 205000 | GC cycles  5
+24 binarytrees.go 7
+time: 536us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 209000 | GC cycles  5
+25 binarytrees.go 7
+time: 553us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 216000 | GC cycles  5
+26 binarytrees.go 7
+time: 532us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 215000 | GC cycles  5
+27 binarytrees.go 7
+time: 561us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 205000 | GC cycles  5
+28 binarytrees.go 7
+time: 545us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 221000 | GC cycles  5
+29 binarytrees.go 7
+time: 533us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 219000 | GC cycles  5
+30 binarytrees.go 7
+time: 516us | TotalAlloc 167064 | mallocs 8913 | frees 48288 | GC Pause 208000 | GC cycles  5
