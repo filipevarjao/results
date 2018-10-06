@@ -1,60 +1,60 @@
 1 binarytrees.go 21
-time: 1m10.779503s | TotalAlloc 10522079424 | mallocs 613788689 | frees 10522079128 | GC Pause 0 | GC cycles  0
+time: 1m18.107675s | TotalAlloc 10522040880 | mallocs 613788554 | frees 10522040584 | GC Pause 0 | GC cycles  0
 2 binarytrees.go 21
-time: 1m16.836118s | TotalAlloc 10522051216 | mallocs 613788602 | frees 10522050920 | GC Pause 0 | GC cycles  0
+time: 1m16.188032s | TotalAlloc 10521928880 | mallocs 613788647 | frees 10521928584 | GC Pause 0 | GC cycles  0
 3 binarytrees.go 21
-time: 1m17.993929s | TotalAlloc 10522030432 | mallocs 613788750 | frees 10522030136 | GC Pause 0 | GC cycles  0
+time: 1m16.855156s | TotalAlloc 10522282032 | mallocs 613788659 | frees 10522281736 | GC Pause 0 | GC cycles  0
 4 binarytrees.go 21
-time: 1m17.611305s | TotalAlloc 10521956624 | mallocs 613788727 | frees 10521956328 | GC Pause 0 | GC cycles  0
+time: 1m9.918618s | TotalAlloc 10521803408 | mallocs 613788674 | frees 10521803112 | GC Pause 0 | GC cycles  0
 5 binarytrees.go 21
-time: 1m18.275747s | TotalAlloc 10521996000 | mallocs 613788634 | frees 10521995704 | GC Pause 0 | GC cycles  0
+time: 1m17.551948s | TotalAlloc 10522514320 | mallocs 613788764 | frees 10522514024 | GC Pause 0 | GC cycles  0
 6 binarytrees.go 21
-time: 1m15.776943s | TotalAlloc 10522239040 | mallocs 613788541 | frees 10522238744 | GC Pause 0 | GC cycles  0
+time: 1m10.11342s | TotalAlloc 10522300208 | mallocs 613788725 | frees 10522299912 | GC Pause 0 | GC cycles  0
 7 binarytrees.go 21
-time: 1m20.161555s | TotalAlloc 10522323616 | mallocs 613788587 | frees 10522323320 | GC Pause 0 | GC cycles  0
+time: 1m17.369805s | TotalAlloc 10522045520 | mallocs 613788575 | frees 10522045224 | GC Pause 0 | GC cycles  0
 8 binarytrees.go 21
-time: 1m18.372202s | TotalAlloc 10522364720 | mallocs 613788709 | frees 10522364424 | GC Pause 0 | GC cycles  0
+time: 1m16.944872s | TotalAlloc 10522238240 | mallocs 613788750 | frees 10522237944 | GC Pause 0 | GC cycles  0
 9 binarytrees.go 21
-time: 1m20.164044s | TotalAlloc 10521978528 | mallocs 613788572 | frees 10521978232 | GC Pause 0 | GC cycles  0
+time: 1m14.553644s | TotalAlloc 10522166208 | mallocs 613788736 | frees 10522165912 | GC Pause 0 | GC cycles  0
 10 binarytrees.go 21
-time: 1m19.403487s | TotalAlloc 10522422960 | mallocs 613788674 | frees 10522422664 | GC Pause 0 | GC cycles  0
+time: 1m16.739822s | TotalAlloc 10522293024 | mallocs 613788701 | frees 10522292728 | GC Pause 0 | GC cycles  0
 11 binarytrees.go 21
-time: 1m14.897919s | TotalAlloc 10522073056 | mallocs 613788674 | frees 10522072760 | GC Pause 0 | GC cycles  0
+time: 1m15.769987s | TotalAlloc 10522085056 | mallocs 613788707 | frees 10522084760 | GC Pause 0 | GC cycles  0
 12 binarytrees.go 21
-time: 1m20.22766s | TotalAlloc 10522116640 | mallocs 613788584 | frees 10522116344 | GC Pause 0 | GC cycles  0
+time: 1m11.270403s | TotalAlloc 10522017872 | mallocs 613788712 | frees 10522017576 | GC Pause 0 | GC cycles  0
 13 binarytrees.go 21
-time: 1m20.444693s | TotalAlloc 10522268512 | mallocs 613788609 | frees 10522268216 | GC Pause 0 | GC cycles  0
+time: 1m15.919466s | TotalAlloc 10522434640 | mallocs 613788713 | frees 10522434344 | GC Pause 0 | GC cycles  0
 14 binarytrees.go 21
-time: 1m16.401359s | TotalAlloc 10522117824 | mallocs 613788563 | frees 10522117528 | GC Pause 0 | GC cycles  0
+time: 1m12.044408s | TotalAlloc 10522304208 | mallocs 613788509 | frees 10522303912 | GC Pause 0 | GC cycles  0
 15 binarytrees.go 21
-time: 1m18.406075s | TotalAlloc 10522246864 | mallocs 613788545 | frees 10522246568 | GC Pause 0 | GC cycles  0
+time: 1m15.205367s | TotalAlloc 10522469408 | mallocs 613788594 | frees 10522469112 | GC Pause 0 | GC cycles  0
 16 binarytrees.go 21
-time: 1m20.21977s | TotalAlloc 10522279584 | mallocs 613788657 | frees 10522279288 | GC Pause 0 | GC cycles  0
+time: 1m12.803139s | TotalAlloc 10522004656 | mallocs 613788665 | frees 10522004360 | GC Pause 0 | GC cycles  0
 17 binarytrees.go 21
-time: 1m16.786005s | TotalAlloc 10522091440 | mallocs 613788728 | frees 10522091144 | GC Pause 0 | GC cycles  0
+time: 1m17.903373s | TotalAlloc 10522126592 | mallocs 613788609 | frees 10522126296 | GC Pause 0 | GC cycles  0
 18 binarytrees.go 21
-time: 1m20.290986s | TotalAlloc 10522024016 | mallocs 613788721 | frees 10522023720 | GC Pause 0 | GC cycles  0
+time: 1m18.401037s | TotalAlloc 10522036944 | mallocs 613788547 | frees 10522036648 | GC Pause 0 | GC cycles  0
 19 binarytrees.go 21
-time: 1m15.537975s | TotalAlloc 10522348096 | mallocs 613788664 | frees 10522347800 | GC Pause 0 | GC cycles  0
+time: 1m13.395874s | TotalAlloc 10522534736 | mallocs 613788801 | frees 10522534440 | GC Pause 0 | GC cycles  0
 20 binarytrees.go 21
-time: 1m15.357649s | TotalAlloc 10522353216 | mallocs 613788675 | frees 10522352920 | GC Pause 0 | GC cycles  0
+time: 1m21.30722s | TotalAlloc 10521946000 | mallocs 613788700 | frees 10521945704 | GC Pause 0 | GC cycles  0
 21 binarytrees.go 21
-time: 1m19.366075s | TotalAlloc 10522334080 | mallocs 613788612 | frees 10522333784 | GC Pause 0 | GC cycles  0
+time: 1m15.090573s | TotalAlloc 10522253056 | mallocs 613788560 | frees 10522252760 | GC Pause 0 | GC cycles  0
 22 binarytrees.go 21
-time: 1m15.702423s | TotalAlloc 10522214480 | mallocs 613788675 | frees 10522214184 | GC Pause 0 | GC cycles  0
+time: 1m17.886478s | TotalAlloc 10522145296 | mallocs 613788668 | frees 10522145000 | GC Pause 0 | GC cycles  0
 23 binarytrees.go 21
-time: 1m21.68734s | TotalAlloc 10521980800 | mallocs 613788584 | frees 10521980504 | GC Pause 0 | GC cycles  0
+time: 1m19.085402s | TotalAlloc 10522317888 | mallocs 613788776 | frees 10522317592 | GC Pause 0 | GC cycles  0
 24 binarytrees.go 21
-time: 1m21.307386s | TotalAlloc 10522236016 | mallocs 613788729 | frees 10522235720 | GC Pause 0 | GC cycles  0
+time: 1m14.483772s | TotalAlloc 10522320560 | mallocs 613788578 | frees 10522320264 | GC Pause 0 | GC cycles  0
 25 binarytrees.go 21
-time: 1m17.319196s | TotalAlloc 10522125200 | mallocs 613788609 | frees 10522124904 | GC Pause 0 | GC cycles  0
+time: 1m12.649602s | TotalAlloc 10521890544 | mallocs 613788523 | frees 10521890248 | GC Pause 0 | GC cycles  0
 26 binarytrees.go 21
-time: 1m21.151156s | TotalAlloc 10522636256 | mallocs 613788698 | frees 10522635960 | GC Pause 0 | GC cycles  0
+time: 1m17.477079s | TotalAlloc 10522026960 | mallocs 613788721 | frees 10522026664 | GC Pause 0 | GC cycles  0
 27 binarytrees.go 21
-time: 1m21.092874s | TotalAlloc 10522356880 | mallocs 613788694 | frees 10522356584 | GC Pause 0 | GC cycles  0
+time: 1m19.760126s | TotalAlloc 10522257504 | mallocs 613788586 | frees 10522257208 | GC Pause 0 | GC cycles  0
 28 binarytrees.go 21
-time: 1m15.335117s | TotalAlloc 10522383120 | mallocs 613788768 | frees 10522382824 | GC Pause 0 | GC cycles  0
+time: 1m20.330643s | TotalAlloc 10522180176 | mallocs 613788568 | frees 10522179880 | GC Pause 0 | GC cycles  0
 29 binarytrees.go 21
-time: 1m17.104383s | TotalAlloc 10522196688 | mallocs 613788607 | frees 10522196392 | GC Pause 0 | GC cycles  0
+time: 1m16.515818s | TotalAlloc 10522289056 | mallocs 613788698 | frees 10522288760 | GC Pause 0 | GC cycles  0
 30 binarytrees.go 21
-time: 1m12.118193s | TotalAlloc 10522413088 | mallocs 613788645 | frees 10522412792 | GC Pause 0 | GC cycles  0
+time: 1m20.874253s | TotalAlloc 10522139072 | mallocs 613788657 | frees 10522138776 | GC Pause 0 | GC cycles  0

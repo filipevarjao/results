@@ -1,60 +1,60 @@
 1 matmul_v1.go 100
-time: 3.186ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.119ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 2 matmul_v1.go 100
-time: 3.118ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.092ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 3 matmul_v1.go 100
-time: 3.001ms | TotalAlloc 437128 | mallocs 523 | frees 436832 | GC Pause 0 | GC cycles  0
+time: 2.991ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 4 matmul_v1.go 100
-time: 3.012ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.009ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 5 matmul_v1.go 100
-time: 3.157ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.084ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 6 matmul_v1.go 100
-time: 3.078ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.105ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 7 matmul_v1.go 100
-time: 3.012ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.034ms | TotalAlloc 437336 | mallocs 524 | frees 437040 | GC Pause 0 | GC cycles  0
 8 matmul_v1.go 100
-time: 3.024ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.115ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 9 matmul_v1.go 100
-time: 3.068ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.166ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 10 matmul_v1.go 100
-time: 3.147ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.078ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 11 matmul_v1.go 100
-time: 2.998ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.107ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 12 matmul_v1.go 100
-time: 3.015ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.168ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 13 matmul_v1.go 100
-time: 3.071ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.083ms | TotalAlloc 437496 | mallocs 525 | frees 437200 | GC Pause 0 | GC cycles  0
 14 matmul_v1.go 100
-time: 3.161ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.134ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 15 matmul_v1.go 100
-time: 3.011ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.01ms | TotalAlloc 365800 | mallocs 520 | frees 365504 | GC Pause 0 | GC cycles  0
 16 matmul_v1.go 100
-time: 3.121ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.145ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 17 matmul_v1.go 100
-time: 3.074ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.16ms | TotalAlloc 437144 | mallocs 523 | frees 436848 | GC Pause 0 | GC cycles  0
 18 matmul_v1.go 100
-time: 3.053ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.111ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 19 matmul_v1.go 100
-time: 2.994ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.031ms | TotalAlloc 437336 | mallocs 524 | frees 437040 | GC Pause 0 | GC cycles  0
 20 matmul_v1.go 100
-time: 3.041ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.116ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 21 matmul_v1.go 100
-time: 3.085ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.048ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 22 matmul_v1.go 100
-time: 3.287ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.039ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 23 matmul_v1.go 100
-time: 2.979ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 2.999ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 24 matmul_v1.go 100
-time: 3.06ms | TotalAlloc 437144 | mallocs 523 | frees 436848 | GC Pause 0 | GC cycles  0
+time: 3.103ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 25 matmul_v1.go 100
-time: 3.088ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.143ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 26 matmul_v1.go 100
-time: 3.108ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.064ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 27 matmul_v1.go 100
-time: 3.055ms | TotalAlloc 437336 | mallocs 524 | frees 437040 | GC Pause 0 | GC cycles  0
+time: 3.051ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
 28 matmul_v1.go 100
-time: 3.102ms | TotalAlloc 437304 | mallocs 524 | frees 437008 | GC Pause 0 | GC cycles  0
+time: 3.045ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 29 matmul_v1.go 100
-time: 3.108ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0
+time: 3.118ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
 30 matmul_v1.go 100
-time: 3.115ms | TotalAlloc 437160 | mallocs 523 | frees 436864 | GC Pause 0 | GC cycles  0
+time: 3.114ms | TotalAlloc 365816 | mallocs 520 | frees 365520 | GC Pause 0 | GC cycles  0

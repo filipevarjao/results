@@ -1,0 +1,60 @@
+1 matmul_v1.go 1000
+time: 2.646551s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+2 matmul_v1.go 1000
+time: 2.677867s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+3 matmul_v1.go 1000
+time: 2.684382s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+4 matmul_v1.go 1000
+time: 2.650245s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+5 matmul_v1.go 1000
+time: 2.654076s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+6 matmul_v1.go 1000
+time: 2.656493s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+7 matmul_v1.go 1000
+time: 2.669218s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+8 matmul_v1.go 1000
+time: 2.657651s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+9 matmul_v1.go 1000
+time: 2.661735s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+10 matmul_v1.go 1000
+time: 2.661401s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+11 matmul_v1.go 1000
+time: 2.658815s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+12 matmul_v1.go 1000
+time: 2.649374s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+13 matmul_v1.go 1000
+time: 2.672299s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+14 matmul_v1.go 1000
+time: 2.653263s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+15 matmul_v1.go 1000
+time: 2.656136s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+16 matmul_v1.go 1000
+time: 2.666399s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+17 matmul_v1.go 1000
+time: 2.67521s | TotalAlloc 22264 | mallocs 115 | frees 22264 | GC Pause 0 | GC cycles  0
+18 matmul_v1.go 1000
+time: 2.662222s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+19 matmul_v1.go 1000
+time: 2.672245s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+20 matmul_v1.go 1000
+time: 2.657235s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+21 matmul_v1.go 1000
+time: 2.681271s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+22 matmul_v1.go 1000
+time: 2.65228s | TotalAlloc 22264 | mallocs 115 | frees 22264 | GC Pause 0 | GC cycles  0
+23 matmul_v1.go 1000
+time: 2.665758s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+24 matmul_v1.go 1000
+time: 2.672973s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+25 matmul_v1.go 1000
+time: 2.664515s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+26 matmul_v1.go 1000
+time: 2.670287s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+27 matmul_v1.go 1000
+time: 2.69303s | TotalAlloc 22264 | mallocs 115 | frees 22264 | GC Pause 0 | GC cycles  0
+28 matmul_v1.go 1000
+time: 2.67203s | TotalAlloc 22264 | mallocs 115 | frees 22264 | GC Pause 0 | GC cycles  0
+29 matmul_v1.go 1000
+time: 2.684479s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
+30 matmul_v1.go 1000
+time: 2.664348s | TotalAlloc 22272 | mallocs 115 | frees 22272 | GC Pause 0 | GC cycles  0
